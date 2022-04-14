@@ -5,4 +5,4 @@
 - 🤔 I’m looking for help with Internship Programs
 - 📫 How to reach me: kayagokhanismail@gmail.com
 - 😄 Pronouns: IGK
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-C13584?style=flat-quare&labelColor=C13584&logo=instagram&logoColor=white&link=link)](twitter.com/igkaya58) 
+- [![Twitter Badge](https://img.shields.io/badge/-Twitter-C13584?style=flat-quare&labelColor=C13584&logo=instagram&logoColor=white&link=link)](twitter.com/igkaya58) 
